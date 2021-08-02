@@ -1,0 +1,33 @@
+.navbar{
+    width:100%;
+    height:70px;
+    position: fixed;
+    top:20px;
+    z-index: 2;
+    
+    
+    .ulist{
+    display:flex;
+    
+
+        .list{ 
+            padding: 10px 30px;
+            
+
+            .arefer{
+           
+            color:black;
+            text-decoration: none;
+            font-size: xx-large;
+            }
+/*
+            .arefer:hover{
+            background-color: black;
+            color: #ffffff;
+            border-radius: 4px;
+            transition: all 0.2s ease-out;
+
+            }*/
+        }
+    }
+}
